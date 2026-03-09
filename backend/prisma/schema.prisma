@@ -1,0 +1,145 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           Int      @id @default(autoincrement())
+  username     String   @unique
+  passwordHash String
+  role         Role     @default(USER)
+  createdAt    DateTime @default(now())
+  testAttempts TestAttempt[]
+  writingSubs  WritingSubmission[]
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+model Book {
+  id       Int       @id @default(autoincrement())
+  name     String
+  year     Int
+  testSets TestSet[]
+}
+
+model TestSet {
+  id           Int           @id @default(autoincrement())
+  bookId       Int
+  testNumber   Int
+  type         String
+  book         Book          @relation(fields: [bookId], references: [id])
+  sections     Section[]
+  testAttempts TestAttempt[]
+}
+
+model Section {
+  id        Int         @id @default(autoincrement())
+  testSetId Int
+  type      SectionType
+  order     Int
+  audioUrl  String?
+  passage   String?
+  testSet   TestSet     @relation(fields: [testSetId], references: [id])
+  questions Question[]
+}
+
+enum SectionType {
+  LISTENING
+  READING
+  WRITING
+}
+
+model Question {
+  id           Int          @id @default(autoincrement())
+  sectionId    Int
+  questionNo   Int
+  questionType QuestionType
+  content      String
+  imageUrl     String?
+  options      Json?
+  answerKey    String?
+  section      Section      @relation(fields: [sectionId], references: [id])
+  answers      Answer[]
+}
+
+enum QuestionType {
+  MULTIPLE_CHOICE
+  FILL_BLANK
+  TRUE_FALSE_NG
+  MATCHING
+  SENTENCE_COMPLETION
+  SHORT_ANSWER
+  WRITING_TASK
+}
+
+model TestAttempt {
+  id          Int       @id @default(autoincrement())
+  userId      Int
+  testSetId   Int
+  startedAt   DateTime  @default(now())
+  submittedAt DateTime?
+  scores      Json?
+  user        User      @relation(fields: [userId], references: [id])
+  testSet     TestSet   @relation(fields: [testSetId], references: [id])
+  answers     Answer[]
+}
+
+model Answer {
+  id         Int         @id @default(autoincrement())
+  attemptId  Int
+  questionId Int
+  userAnswer String
+  isCorrect  Boolean?
+  attempt    TestAttempt @relation(fields: [attemptId], references: [id])
+  question   Question    @relation(fields: [questionId], references: [id])
+}
+
+model WritingSubmission {
+  id              Int           @id @default(autoincrement())
+  userId          Int
+  questionId      Int
+  essayText       String
+  taskType        Int
+  status          WritingStatus @default(PENDING)
+  scoringProvider String?
+  taScore         Float?
+  ccScore         Float?
+  lrScore         Float?
+  graScore        Float?
+  overallScore    Float?
+  aiFeedback      Json?
+  adminFeedback   String?
+  scoredAt        DateTime?
+  createdAt       DateTime      @default(now())
+  user            User          @relation(fields: [userId], references: [id])
+}
+
+enum WritingStatus {
+  PENDING
+  AI_SCORED
+  MANUAL_SCORED
+  FAILED
+}
+
+model Settings {
+  id    Int    @id @default(autoincrement())
+  key   String @unique
+  value String
+}
+
+model AiScoringLog {
+  id           Int      @id @default(autoincrement())
+  submissionId Int
+  provider     String
+  latencyMs    Int
+  success      Boolean
+  errorMsg     String?
+  createdAt    DateTime @default(now())
+}
