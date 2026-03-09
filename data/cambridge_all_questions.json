@@ -1,0 +1,546 @@
+[
+  {
+    "id": "cam11_t1_task1",
+    "book": 11,
+    "test": 1,
+    "task": "task1",
+    "chart_type": "bar chart",
+    "question": "The bar chart below shows the percentage of Australian men and women in different age groups who did regular physical activity in 2010. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam11_t1_task2",
+    "book": 11,
+    "test": 1,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people think that governments should ban dangerous sports, while others believe that people should have the freedom to do any sport or activity. Discuss both views and give your opinion."
+  },
+  {
+    "id": "cam11_t2_task1",
+    "book": 11,
+    "test": 2,
+    "task": "task1",
+    "chart_type": "line graph",
+    "question": "The graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam11_t2_task2",
+    "book": 11,
+    "test": 2,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people think that a sense of competition in children should be encouraged. Others believe that children who are taught to co-operate rather than compete become more useful adults. Discuss both these views and give your own opinion."
+  },
+  {
+    "id": "cam11_t3_task1",
+    "book": 11,
+    "test": 3,
+    "task": "task1",
+    "chart_type": "pie chart",
+    "question": "The pie charts below show the online shopping sales for retail sectors in New Zealand in 2003 and 2013. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam11_t3_task2",
+    "book": 11,
+    "test": 3,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people say that advertising encourages us to buy things we do not really need. Others say that advertisements tell us about new products that may improve our lives. Which viewpoint do you agree with?"
+  },
+  {
+    "id": "cam11_t4_task1",
+    "book": 11,
+    "test": 4,
+    "task": "task1",
+    "chart_type": "mixed",
+    "question": "The chart and graph below give information about sales and share prices for Coca-Cola. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam11_t4_task2",
+    "book": 11,
+    "test": 4,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people think the main purpose of schools is to turn children into good citizens and workers, rather than to benefit them as individuals. To what extent do you agree or disagree?"
+  },
+  {
+    "id": "cam12_t1_task1",
+    "book": 12,
+    "test": 1,
+    "task": "task1",
+    "chart_type": "bar chart",
+    "question": "The bar chart below shows the percentage of Australian men and women in different age groups who did regular physical activity in 2010.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam12_t1_task2",
+    "book": 12,
+    "test": 1,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam12_t2_task1",
+    "book": 12,
+    "test": 2,
+    "task": "task1",
+    "chart_type": "map",
+    "question": "The maps below show the centre of a small town called Islip as it is now, and plans for its development. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam12_t2_task2",
+    "book": 12,
+    "test": 2,
+    "task": "task2",
+    "chart_type": null,
+    "question": "At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people. Do the advantages of this situation outweigh the disadvantages? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+  },
+  {
+    "id": "cam13_t1_task1",
+    "book": 13,
+    "test": 1,
+    "task": "task1",
+    "chart_type": "map",
+    "question": "The two maps below show road access to a city hospital in 2007 and in 2010.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam13_t1_task2",
+    "book": 13,
+    "test": 1,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Living in a country where you have to speak a foreign language can cause serious social problems, as well as practical problems.\n\nTo what extent do you agree or disagree with this statement?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam13_t2_task1",
+    "book": 13,
+    "test": 2,
+    "task": "task1",
+    "chart_type": "bar chart",
+    "question": "The chart below shows the percentage of households in owned and rented accommodation in England and Wales between 1918 and 2011. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam13_t2_task2",
+    "book": 13,
+    "test": 2,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people believe that nowadays we have too many choices. To what extent do you agree or disagree with this statement? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+  },
+  {
+    "id": "cam13_t3_task1",
+    "book": 13,
+    "test": 3,
+    "task": "task1",
+    "chart_type": "bar chart",
+    "question": "The bar chart below shows the top ten countries for the production and consumption of electricity in 2014.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam13_t3_task2",
+    "book": 13,
+    "test": 3,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people say History is one of the most important school subjects. Other people think that, in today's world, subjects like Science and Technology are more important than History.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam13_t4_task1",
+    "book": 13,
+    "test": 4,
+    "task": "task1",
+    "chart_type": "map",
+    "question": "The plans below show the layout of a university's sports centre now, and how it will look after redevelopment.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam13_t4_task2",
+    "book": 13,
+    "test": 4,
+    "task": "task2",
+    "chart_type": null,
+    "question": "In spite of the advances made in agriculture, many people around the world still go hungry.\n\nWhy is this the case?\n\nWhat can be done about this problem?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam14_t1_task1",
+    "book": 14,
+    "test": 1,
+    "task": "task1",
+    "chart_type": "bar chart",
+    "question": "The charts below show the average percentages in typical meals of three types of nutrients, all of which may be unhealthy if eaten too much.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam14_t1_task2",
+    "book": 14,
+    "test": 1,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam14_t2_task1",
+    "book": 14,
+    "test": 2,
+    "task": "task1",
+    "chart_type": "bar chart and table",
+    "question": "The chart below shows the value of one country's exports in various categories during 2015 and 2016. The table shows the percentage change in each category of exports in 2016 compared with 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam14_t2_task2",
+    "book": 14,
+    "test": 2,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems. Discuss both these views and give your own opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+  },
+  {
+    "id": "cam14_t3_task1",
+    "book": 14,
+    "test": 3,
+    "task": "task1",
+    "chart_type": "process diagram",
+    "question": "The diagram below shows how electricity is generated in a hydroelectric power station.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam14_t3_task2",
+    "book": 14,
+    "test": 3,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people say that music is a good way of bringing people of different cultures and ages together.\n\nTo what extent do you agree or disagree with this opinion?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam14_t4_task1",
+    "book": 14,
+    "test": 4,
+    "task": "task1",
+    "chart_type": "map",
+    "question": "The plans below show a public park when it first opened in 1920 and the same park today.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam14_t4_task2",
+    "book": 14,
+    "test": 4,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Nowadays many people choose to be self-employed, rather than to work for a company or organisation.\n\nWhy might this be the case?\n\nWhat could be the disadvantages of being self-employed?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam15_t1_task1",
+    "book": 15,
+    "test": 1,
+    "task": "task1",
+    "chart_type": "bar chart",
+    "question": "The chart below shows the results of a survey about people's coffee and tea buying and drinking habits in five Australian cities.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam15_t1_task2",
+    "book": 15,
+    "test": 1,
+    "task": "task2",
+    "chart_type": null,
+    "question": "In some countries, owning a home rather than renting one is very important for people. Why might this be the case?\n\nDo you think this is a positive or negative situation?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam15_t2_task1",
+    "book": 15,
+    "test": 2,
+    "task": "task1",
+    "chart_type": "line graph",
+    "question": "The graph below shows the number of tourists visiting a particular Caribbean island between 2010 and 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam15_t2_task2",
+    "book": 15,
+    "test": 2,
+    "task": "task2",
+    "chart_type": null,
+    "question": "In the future, nobody will buy printed newspapers or books because they will be able to read everything they want online without paying. To what extent do you agree or disagree with this statement? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+  },
+  {
+    "id": "cam15_t3_task1",
+    "book": 15,
+    "test": 3,
+    "task": "task1",
+    "chart_type": "process diagram",
+    "question": "The diagram below shows how instant noodles are manufactured.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam15_t3_task2",
+    "book": 15,
+    "test": 3,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam15_t4_task1",
+    "book": 15,
+    "test": 4,
+    "task": "task1",
+    "chart_type": "mixed",
+    "question": "The chart below shows what Anthropology graduates from one university did after finishing their undergraduate degree course. The table shows the salaries of the anthropologists in work after five years.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam15_t4_task2",
+    "book": 15,
+    "test": 4,
+    "task": "task2",
+    "chart_type": null,
+    "question": "In some cultures, children are often told that they can achieve anything if they try hard enough.\n\nWhat are the advantages and disadvantages of giving children this message?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam16_t1_task1",
+    "book": 16,
+    "test": 1,
+    "task": "task1",
+    "chart_type": "mixed",
+    "question": "The charts below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam16_t1_task2",
+    "book": 16,
+    "test": 1,
+    "task": "task2",
+    "chart_type": null,
+    "question": "In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in.\n\nWhat are the reasons for this?\nHow can people research this?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam16_t2_task1",
+    "book": 16,
+    "test": 2,
+    "task": "task1",
+    "chart_type": "process diagram",
+    "question": "The diagram below shows the manufacturing process for making sugar from sugar cane. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam16_t2_task2",
+    "book": 16,
+    "test": 2,
+    "task": "task2",
+    "chart_type": null,
+    "question": "In their advertising, businesses nowadays usually emphasise that their products are new in some way. Why is this? Do you think it is a positive or negative development? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+  },
+  {
+    "id": "cam16_t3_task1",
+    "book": 16,
+    "test": 3,
+    "task": "task1",
+    "chart_type": "map",
+    "question": "The plans below show the site of an airport now and how it will look after redevelopment next year.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam16_t3_task2",
+    "book": 16,
+    "test": 3,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar.\n\nDo you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam16_t4_task1",
+    "book": 16,
+    "test": 4,
+    "task": "task1",
+    "chart_type": "process diagram",
+    "question": "The diagram below shows the process for recycling plastic bottles.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam16_t4_task2",
+    "book": 16,
+    "test": 4,
+    "task": "task2",
+    "chart_type": null,
+    "question": "In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers.\n\nDo you think the advantages of driverless vehicles outweigh the disadvantages?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam17_t1_task1",
+    "book": 17,
+    "test": 1,
+    "task": "task1",
+    "chart_type": "bar chart",
+    "question": "The chart below shows the number of households in the US by their annual income in 2007, 2011 and 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam17_t1_task2",
+    "book": 17,
+    "test": 1,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations. Discuss both these views and give your own opinion."
+  },
+  {
+    "id": "cam17_t2_task1",
+    "book": 17,
+    "test": 2,
+    "task": "task1",
+    "chart_type": "table and pie charts",
+    "question": "The table and charts below give information on the police budget for 2017 and 2018 in one area of Britain. The table shows where the money came from and the charts show how it was distributed. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam17_t2_task2",
+    "book": 17,
+    "test": 2,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some children spend hours every day on their smartphones. Why is this the case? Do you think this is a positive or a negative development? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+  },
+  {
+    "id": "cam17_t3_task1",
+    "book": 17,
+    "test": 3,
+    "task": "task1",
+    "chart_type": "mixed",
+    "question": "The table and chart below give information about the population and language of the Caribbean islands. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam17_t3_task2",
+    "book": 17,
+    "test": 3,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people think that it is important to use leisure time for activities that develop the mind, such as reading and doing word puzzles. Others feel that it is important to rest the mind during leisure time. Discuss both these views and give your own opinion."
+  },
+  {
+    "id": "cam17_t4_task1",
+    "book": 17,
+    "test": 4,
+    "task": "task1",
+    "chart_type": "line graph",
+    "question": "The graph below shows the number of shops that closed and the number of new shops that opened in one country between 2011 and 2018.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words."
+  },
+  {
+    "id": "cam17_t4_task2",
+    "book": 17,
+    "test": 4,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Nowadays, a growing number of people with health problems are trying alternative medicines and treatments instead of visiting their usual doctor.\n\nDo you think this is a positive or a negative development?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+  },
+  {
+    "id": "cam18_t1_task1",
+    "book": 18,
+    "test": 1,
+    "task": "task1",
+    "chart_type": "line graph",
+    "question": "The graph below shows the percentage of the population living in urban areas in four Asian countries from 1970 to 2040. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam18_t1_task2",
+    "book": 18,
+    "test": 1,
+    "task": "task2",
+    "chart_type": null,
+    "question": "In the modern world, science and technology have improved people's lives enormously. However, some scientists argue that the most important scientific discoveries have already been made. To what extent do you agree or disagree?"
+  },
+  {
+    "id": "cam18_t2_task1",
+    "book": 18,
+    "test": 2,
+    "task": "task1",
+    "chart_type": "bar chart",
+    "question": "The chart below shows the number of households in the US by their annual income in 2007, 2011 and 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam18_t2_task2",
+    "book": 18,
+    "test": 2,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some university students want to learn about other subjects in addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+  },
+  {
+    "id": "cam18_t3_task1",
+    "book": 18,
+    "test": 3,
+    "task": "task1",
+    "chart_type": "map",
+    "question": "The diagrams below show the floor plan of a public library 20 years ago and now. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam18_t3_task2",
+    "book": 18,
+    "test": 3,
+    "task": "task2",
+    "chart_type": null,
+    "question": "In some countries, people are moving away from rural areas and into cities. Why is this? Do you think the advantages of this development outweigh the disadvantages?"
+  },
+  {
+    "id": "cam18_t4_task1",
+    "book": 18,
+    "test": 4,
+    "task": "task1",
+    "chart_type": "line graph",
+    "question": "The graph below shows the average monthly change in the prices of three metals during 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam18_t4_task2",
+    "book": 18,
+    "test": 4,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people think that the increasing use of computers and mobile phones for communication has had a negative effect on young people's reading and writing skills. To what extent do you agree or disagree?"
+  },
+  {
+    "id": "cam19_t1_task1",
+    "book": 19,
+    "test": 1,
+    "task": "task1",
+    "chart_type": "line graph",
+    "question": "The graph below gives information on the numbers of participants for different activities at one social centre in Melbourne, Australia for the period 2000 to 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam19_t1_task2",
+    "book": 19,
+    "test": 1,
+    "task": "task2",
+    "chart_type": null,
+    "question": "Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other. Discuss both these views and give your own opinion."
+  },
+  {
+    "id": "cam19_t2_task1",
+    "book": 19,
+    "test": 2,
+    "task": "task1",
+    "chart_type": "map",
+    "question": "The plans below show a harbour in 2000 and how it looks today. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam19_t2_task2",
+    "book": 19,
+    "test": 2,
+    "task": "task2",
+    "chart_type": null,
+    "question": "The working week should be shorter and workers should have a longer weekend. Do you agree or disagree? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+  },
+  {
+    "id": "cam19_t3_task1",
+    "book": 19,
+    "test": 3,
+    "task": "task1",
+    "chart_type": "process diagram",
+    "question": "The diagram below shows how a biofuel called ethanol is produced. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam19_t3_task2",
+    "book": 19,
+    "test": 3,
+    "task": "task2",
+    "chart_type": null,
+    "question": "It is important for everyone, including young people, to save money for their future. To what extent do you agree or disagree with this statement?"
+  },
+  {
+    "id": "cam19_t4_task1",
+    "book": 19,
+    "test": 4,
+    "task": "task1",
+    "chart_type": "pie chart",
+    "question": "The charts below give information on the location and types of dance classes young people in a town in Australia are currently attending. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+  },
+  {
+    "id": "cam19_t4_task2",
+    "book": 19,
+    "test": 4,
+    "task": "task2",
+    "chart_type": null,
+    "question": "In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?"
+  }
+]
